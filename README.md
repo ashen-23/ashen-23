@@ -13,15 +13,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashen-23" />
 </a>
 
-<span>
+##
 
-  
-<ul style="align:left">
-<li><a href="https://ashen23.site/">ashen23 site</a></li>
-
-<li><a href="https://doc.ashen23.site/">ashen23 blog</a></li>
-</ul>
-</span>
+- [ashen23 site](https://ashen23.site/)
+- [ashen23 blog](https://doc.ashen23.site)
 
  
 
