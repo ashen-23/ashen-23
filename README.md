@@ -15,9 +15,8 @@
 
 <span>
 
-# 
   
-<ul>
+<ul style="align:left">
 <li><a href="https://ashen23.site/">ashen23 site</a></li>
 
 <li><a href="https://doc.ashen23.site/">ashen23 blog</a></li>
