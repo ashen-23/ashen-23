@@ -14,8 +14,14 @@
 </a>
 
 
-<pre style="width=100px;height=100px;">
- - [ashen23 site](https://ashen23.site/)
+<pre style="width=100px;height=100px;margin-top:50px">
+<li> 
+<a href="https://ashen23.site/">ashen23 site</a>
+</li>
+
+<li>
+<a href="https://doc.ashen23.site/">ashen23 blog</a>
+</li>
 </pre>
 
  
